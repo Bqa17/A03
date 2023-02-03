@@ -16,3 +16,11 @@ Once it's installed you have to make an account in order to gain access to the s
 Go to https://www.jetbrains.com/community/education/#students and click apply now.<br>
 Fill in the form with your information. It will ask you for a picture of your id. Then it will take some time to approve your request. (It took less than an hour for me)<br>
 Once your account is confirmed you can log in into your account.<br>
+
+Install git on mac: <br>
+first of all open the command line and paste the following : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" <br>
+this will install brew, which you need in order to install git. Once it's done installing, it will give you three commands to paste on your command line.
+Copy and paste them one by one. Then follow the rest of the instructions.<br>
+After that install git by typing "brew install git"<br>
+Then install Macports if you don't have it already by going to https://www.macports.org/install.php and following the instructions.<br>
+After that type this in your command line "sudo port install git"<br>
