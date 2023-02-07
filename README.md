@@ -33,3 +33,20 @@ Connect Webstorm to GitHub: <br>
 In Webstorm settings, go to version control and then to github. Click "Add Account" and "Log in via GitHub".<br>
 It will take you to a web page, click "Authorize in GitHub". Then authorize JetBrains.
 After that your account should be linked to Webstorm.
+<br><br>
+<ul>
+  <li><b>Branch</b></li>
+  <li><b>Clone</b></li>
+  <li><b>Commit</b></li>
+  <li><b>Fetch</b></li>
+  <li><b>GIT</b></li>
+  <li><b>Github</b></li>
+  <li><b>Merge</b></li>
+  <li><b>Merge Conflict</b></li>
+  <li><b>Push</b></li>
+  <li><b>Pull</b></li>
+  <li><b>Remote</b></li>
+  <li><b>Repository</b></li>
+
+</ul>
+
