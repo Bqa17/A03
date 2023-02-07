@@ -24,3 +24,12 @@ Copy and paste them one by one. Then follow the rest of the instructions.<br>
 After that install git by typing "brew install git"<br>
 Then install Macports if you don't have it already by going to https://www.macports.org/install.php and following the instructions.<br>
 After that type this in your command line "sudo port install git"<br>
+After that everything should be ready<br>
+
+Connect Webstorm to git: <br>
+Open Webstorm and press "command + ," on mac to access the settings. Go to Version control and then go to Git. Press test, if git is installed correctly, a message with its version should appear under "Path to Git executable"
+
+Connect Webstorm to GitHub: <br>
+In Webstorm settings, go to version control and then to github. Click "Add Account" and "Log in via GitHub".<br>
+It will take you to a web page, click "Authorize in GitHub". Then authorize JetBrains.
+After that your account should be linked to Webstorm.
