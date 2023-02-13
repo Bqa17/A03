@@ -34,19 +34,19 @@ In Webstorm settings, go to version control and then to github. Click "Add Accou
 It will take you to a web page, click "Authorize in GitHub". Then authorize JetBrains.
 After that your account should be linked to Webstorm.
 <br><br>
-<ul>
-  <li><b>Branch</b></li>
-  <li><b>Clone</b></li>
-  <li><b>Commit</b></li>
-  <li><b>Fetch</b></li>
-  <li><b>GIT</b></li>
-  <li><b>Github</b></li>
-  <li><b>Merge</b></li>
-  <li><b>Merge Conflict</b></li>
-  <li><b>Push</b></li>
-  <li><b>Pull</b></li>
-  <li><b>Remote</b></li>
-  <li><b>Repository</b></li>
 
-</ul>
-
+- **Branch**<br>
+ A separate version of the code that enables multiple developers to work simultaneously without affecting each other.<br>
+- **Clone**
+ A replica of an existing website design or content to create a new website with ease.<br>
+- **Commit**
+A saved change or set of changes to a code repository managed by a version control system like Git.<br>
+- **Fetch**
+- **GIT**
+- **Github**
+- **Merge**
+- **Merge Conflict**
+- **Push**
+- **Pull**
+- **Remote**
+- **Repository**
