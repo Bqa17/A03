@@ -37,16 +37,25 @@ After that your account should be linked to Webstorm.
 
 - **Branch**<br>
  A separate version of the code that enables multiple developers to work simultaneously without affecting each other.<br>
-- **Clone**
+- **Clone**<br>
  A replica of an existing website design or content to create a new website with ease.<br>
-- **Commit**
-A saved change or set of changes to a code repository managed by a version control system like Git.<br>
-- **Fetch**
-- **GIT**
-- **Github**
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**
-- **Repository**
+- **Commit**<br>
+A saved change or set of changes to a code repository managed by a version control system like Git.
+- **Fetch**<br>
+The operation of retrieving data from a remote code repository.
+- **GIT**<br>
+Popular and widely used version control system for software development. It stores a complete repository, including all code and history in the developers computer.
+- **Github**<br>
+A web-based platform for version control and collaboration that uses Git as its underlying technology. It provides a centralized platform for developers to store and manage their code repositories, as well as tools for collaboration, issue tracking, project management, and more. 
+- **Merge**<br>
+The process of integrating changes from one branch into another branch in a code repository.
+- **Merge Conflict**<br>
+ It occurs when a version control system is unable to automatically merge changes from two or more branches into a single codebase.
+- **Push**<br>
+The operation of sending changes from a local code repository to a remote repository.
+- **Pull**<br>
+Retrieving changes from a remote repository and integrating them into a local code repository.
+- **Remote**<br>
+A code repository that is stored on a server and accessed over a network, as opposed to a local repository that is stored on a computer. 
+- **Repository**<br>
+A collection of files, directories, and other resources that are organized and managed together as a single unit. A central place where the codebase for a project is stored and managed, along with information about the history of changes made to the code over time.
